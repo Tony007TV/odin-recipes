@@ -1,0 +1,41 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid darkgreen 5px;
+    border-radius: 10px;
+    padding: 10px 10px;
+
+}
+h1 {
+    margin-top: 0px;
+    color: white;
+    background-color: green;
+    text-align: center;
+    border: solid darkgreen 5px;
+    border-radius: 10px;
+}
+
+h2 {
+    background-color: rgba(0, 128, 0, 0.185);
+    text-align: center;
+    border: solid rgba(0, 100, 0, 0.116) 5px;
+    border-radius: 10px;
+}
+img {
+    border: dotted green 1px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: square;
+
+}
+
+ol {
+    list-style: decimal-leading-zero;
+    text-align: center;
+}
+
+ol li {
+    padding: 10px;
+    font-size: larger;
+}
